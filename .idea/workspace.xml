@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4af6a42-4070-472e-9780-c479859e08ab" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="marketplace" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="marketplace-bbdd.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/marketplace-bbdd.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1989">
+              <caret line="117" column="31" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
+              <folding>
+                <marker date="1519446852000" expanded="true" signature="644:764" ph="ALTER TABLE " />
+                <marker date="1519446852000" expanded="true" signature="768:866" ph="ALTER TABLE " />
+                <marker date="1519446852000" expanded="true" signature="869:1003" ph="ALTER TABLE " />
+                <marker date="1519446852000" expanded="true" signature="6287:6530" ph="UPDATE ${$ta... " />
+                <marker date="1519446852000" expanded="true" signature="6819:6894" ph="SELECT * FRO... ${$table_name}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marketplace-register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/marketplace-register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="56" column="73" selection-start-line="56" selection-start-column="73" selection-end-line="56" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marketplace-install.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/marketplace-install.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marketplace-form.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/marketplace-form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="135" column="139" selection-start-line="135" selection-start-column="139" selection-end-line="135" selection-end-column="139" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marketplace-dashboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/marketplace-dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" column="102" selection-start-line="61" selection-start-column="96" selection-end-line="61" selection-end-column="102" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marketplace-business.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/marketplace-business.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2737">
+              <caret line="161" column="138" selection-start-line="161" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frontend.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/frontend.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/admin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1445">
+              <caret line="85" column="3" selection-start-line="85" selection-start-column="3" selection-end-line="85" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-marketplace-list-table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/class-marketplace-list-table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1768">
+              <caret line="104" column="110" selection-start-line="104" selection-start-column="110" selection-end-line="104" selection-end-column="110" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marketplace-functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/marketplace-functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8109">
+              <caret line="477" column="0" selection-start-line="477" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+              <folding>
+                <marker date="1519738162000" expanded="true" signature="6971:6988" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="6989:7585" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="6994:7207" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="6999:7082" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="7097:7114" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="7115:7197" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="7212:7576" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="7225:7258" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="7271:7570" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="7292:7329" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="16231:16248" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="16249:17091" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="16254:16467" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="16259:16342" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="16357:16374" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="16375:16457" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="16472:17082" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="16485:16518" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="16531:17072" ph="..." />
+                <marker date="1519738162000" expanded="true" signature="16552:16589" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>url</find>
+      <find>ajaxurl</find>
+      <find>#</find>
+      <find>get_column_info</find>
+      <find>get_columns</find>
+      <find>&quot;</find>
+      <find>MarketPlace_List_Table</find>
+      <find>&quot;error&quot;</find>
+      <find>$action_slug</find>
+      <find>echo</find>
+      <find>$croped_image</find>
+      <find>error</find>
+      <find>wpd</find>
+      <find>slug</find>
+      <find>publi</find>
+      <find>view-more-product</find>
+      <find>pub</find>
+      <find>email</find>
+      <find>$mail_exist</find>
+      <find>publish</find>
+      <find>delete</find>
+      <find>redi</find>
+      <find>regis</find>
+      <find>form</find>
+      <find>.sidebar[data-active-color=&quot;rose&quot;] li.active &gt; a, .off-canvas-sidebar[data-active-color=&quot;rose&quot;] li.active &gt; a</find>
+      <find>agre</find>
+      <find>media</find>
+      <find>no has</find>
+      <find>register</find>
+      <find>strong</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+      <replace>'error'</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/includes</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/marketplace-install.php" />
+        <option value="$PROJECT_DIR$/marketplace-table.php" />
+        <option value="$PROJECT_DIR$/marketplace_ajax_final.php" />
+        <option value="$PROJECT_DIR$/class-marketplace-template-loader.php" />
+        <option value="$PROJECT_DIR$/marketplace_form.php" />
+        <option value="$PROJECT_DIR$/marketplace_ajax.php" />
+        <option value="$PROJECT_DIR$/class-encuesta-list-table.php" />
+        <option value="$PROJECT_DIR$/marketplace_database_install.php" />
+        <option value="$PROJECT_DIR$/marketplace_update_db_check.php" />
+        <option value="$PROJECT_DIR$/marketplace-functions.php" />
+        <option value="$PROJECT_DIR$/marketplace-bbdd.php" />
+        <option value="$PROJECT_DIR$/marketplace-shortcode.php" />
+        <option value="$PROJECT_DIR$/assets/admin.css" />
+        <option value="$PROJECT_DIR$/assets/js/jquery.validate.min.js" />
+        <option value="$PROJECT_DIR$/includes/encuesta-load-js-css.php" />
+        <option value="$PROJECT_DIR$/marketplace.php" />
+        <option value="$PROJECT_DIR$/includes/marketplace-install.php" />
+        <option value="$PROJECT_DIR$/includes/class-marketplace-template-loader.php" />
+        <option value="$PROJECT_DIR$/templates/marketplace_form.php" />
+        <option value="$PROJECT_DIR$/templates/marketplace-form-business.php" />
+        <option value="$PROJECT_DIR$/includes/marketplace-table.php" />
+        <option value="$PROJECT_DIR$/includes/actions-register.php" />
+        <option value="$PROJECT_DIR$/templates/actions-register.php" />
+        <option value="$PROJECT_DIR$/includes/marketplace_publish.php" />
+        <option value="$PROJECT_DIR$/includes/marketplace-publish.php" />
+        <option value="$PROJECT_DIR$/templates/marketplace-publish.php" />
+        <option value="$PROJECT_DIR$/templates/marketplace-login_only.php" />
+        <option value="$PROJECT_DIR$/templates/marketplace-login.php" />
+        <option value="$PROJECT_DIR$/includes/marketplace-shortcodes.php" />
+        <option value="$PROJECT_DIR$/templates/marketplace-login-only.php" />
+        <option value="$PROJECT_DIR$/assets/js/admin.js" />
+        <option value="$PROJECT_DIR$/includes/class-marketplace-list-table.php" />
+        <option value="$PROJECT_DIR$/templates/register.php" />
+        <option value="$PROJECT_DIR$/includes/marketplace-bbdd.php" />
+        <option value="$PROJECT_DIR$/templates/marketplace-logout.php" />
+        <option value="$PROJECT_DIR$/assets/css/frontend.css" />
+        <option value="$PROJECT_DIR$/assets/js/frontend.js" />
+        <option value="$PROJECT_DIR$/includes/marketplace-load-js-css.php" />
+        <option value="$PROJECT_DIR$/includes/marketplace-functions.php" />
+        <option value="$PROJECT_DIR$/templates/marketplace-register.php" />
+        <option value="$PROJECT_DIR$/templates/marketplace-dashboard.php" />
+        <option value="$PROJECT_DIR$/templates/marketplace-business.php" />
+        <option value="$PROJECT_DIR$/templates/marketplace-form.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marketplace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marketplace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marketplace" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/js" />
+      <recent name="$PROJECT_DIR$/assets/css" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.marketplace-register.php">
+    <configuration default="false" name="marketplace-register.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/marketplace/templates/marketplace-register.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.marketplace-register.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.marketplace-register.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4af6a42-4070-472e-9780-c479859e08ab" name="Default" comment="" />
+      <created>1514322273728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514322273728</updated>
+      <workItem from="1514322275691" duration="1281000" />
+      <workItem from="1514386744513" duration="13155000" />
+      <workItem from="1514483365834" duration="6610000" />
+      <workItem from="1514494629264" duration="1778000" />
+      <workItem from="1514553951082" duration="769000" />
+      <workItem from="1514562341747" duration="562000" />
+      <workItem from="1514897677256" duration="12416000" />
+      <workItem from="1514984475844" duration="1270000" />
+      <workItem from="1514988743357" duration="12654000" />
+      <workItem from="1515069149149" duration="15245000" />
+      <workItem from="1515158684106" duration="2772000" />
+      <workItem from="1515179971434" duration="5664000" />
+      <workItem from="1515415425097" duration="9362000" />
+      <workItem from="1515501993225" duration="13142000" />
+      <workItem from="1515588097052" duration="4561000" />
+      <workItem from="1515603056662" duration="1087000" />
+      <workItem from="1515689698678" duration="1421000" />
+      <workItem from="1515764667417" duration="6242000" />
+      <workItem from="1515850553087" duration="325000" />
+      <workItem from="1515949267160" duration="21000" />
+      <workItem from="1516168409788" duration="1856000" />
+      <workItem from="1516282089598" duration="390000" />
+      <workItem from="1516370620091" duration="2027000" />
+      <workItem from="1516641833960" duration="2313000" />
+      <workItem from="1516731228576" duration="4239000" />
+      <workItem from="1516799000168" duration="3227000" />
+      <workItem from="1516905451064" duration="2087000" />
+      <workItem from="1517331065402" duration="10441000" />
+      <workItem from="1517404185223" duration="5687000" />
+      <workItem from="1517492853563" duration="8986000" />
+      <workItem from="1517576965847" duration="893000" />
+      <workItem from="1517688812189" duration="4821000" />
+      <workItem from="1517841095925" duration="13884000" />
+      <workItem from="1517922014640" duration="13862000" />
+      <workItem from="1518009464220" duration="4329000" />
+      <workItem from="1518095296839" duration="13934000" />
+      <workItem from="1518135285121" duration="5673000" />
+      <workItem from="1518154860210" duration="2943000" />
+      <workItem from="1518197708134" duration="4063000" />
+      <workItem from="1518283389265" duration="19181000" />
+      <workItem from="1518361907064" duration="10133000" />
+      <workItem from="1518398215340" duration="3075000" />
+      <workItem from="1518450234955" duration="9722000" />
+      <workItem from="1518527675607" duration="10001000" />
+      <workItem from="1518613158038" duration="10748000" />
+      <workItem from="1518700313430" duration="33320000" />
+      <workItem from="1518884007582" duration="32802000" />
+      <workItem from="1518942775146" duration="659000" />
+      <workItem from="1518943602245" duration="11343000" />
+      <workItem from="1519000561657" duration="4329000" />
+      <workItem from="1519048016917" duration="3321000" />
+      <workItem from="1519089515583" duration="2001000" />
+      <workItem from="1519161051113" duration="74000" />
+      <workItem from="1519164080203" duration="606000" />
+      <workItem from="1519176424332" duration="5612000" />
+      <workItem from="1519218840579" duration="35376000" />
+      <workItem from="1519478993513" duration="3742000" />
+      <workItem from="1519494932199" duration="3894000" />
+      <workItem from="1519515014330" duration="9575000" />
+      <workItem from="1519574502709" duration="7865000" />
+      <workItem from="1519650389917" duration="2718000" />
+      <workItem from="1519697671248" duration="2524000" />
+      <workItem from="1519738071320" duration="2488000" />
+      <workItem from="1519828156382" duration="1843000" />
+      <workItem from="1519932077577" duration="1481000" />
+      <workItem from="1519995939059" duration="669000" />
+      <workItem from="1520254596823" duration="122000" />
+      <workItem from="1520369118137" duration="1708000" />
+      <workItem from="1526944989733" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="446938000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2586466" sideWeight="0.49441788" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924837" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29321486" sideWeight="0.50558215" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39872408" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/templates/marketplace-dashboard.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/templates/marketplace-login-only.php</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/js/truncate.js" />
+    <entry file="file://$PROJECT_DIR$/templates/marketplace-dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/marketplace-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="78" selection-start-line="78" selection-start-column="78" selection-end-line="78" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/marketplace-business.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="73" selection-start-line="57" selection-start-column="73" selection-end-line="57" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding>
+            <marker date="1519738162000" expanded="true" signature="6971:6988" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="6989:7585" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="6994:7207" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="6999:7082" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7097:7114" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7115:7197" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7212:7576" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7225:7258" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7271:7570" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7292:7329" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16231:16248" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16249:17091" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16254:16467" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16259:16342" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16357:16374" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16375:16457" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16472:17082" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16485:16518" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16531:17072" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16552:16589" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-bbdd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="35" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/truncate.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/frontend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/marketplace-dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-load-js-css.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding>
+            <marker date="1519738162000" expanded="true" signature="6971:6988" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="6989:7585" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="6994:7207" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="6999:7082" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7097:7114" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7115:7197" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7212:7576" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7225:7258" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7271:7570" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7292:7329" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16231:16248" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16249:17091" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16254:16467" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16259:16342" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16357:16374" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16375:16457" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16472:17082" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16485:16518" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16531:17072" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16552:16589" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-bbdd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="198" column="0" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/frontend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding>
+            <marker date="1519738162000" expanded="true" signature="6971:6988" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="6989:7585" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="6994:7207" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="6999:7082" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7097:7114" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7115:7197" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7212:7576" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7225:7258" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7271:7570" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7292:7329" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16231:16248" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16249:17091" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16254:16467" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16259:16342" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16357:16374" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16375:16457" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16472:17082" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16485:16518" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16531:17072" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16552:16589" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/frontend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-bbdd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="198" column="0" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/truncate.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/trunk8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/img/star-empty.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/actions-register.php" />
+    <entry file="file://$PROJECT_DIR$/templates/marketplace-register_only.php" />
+    <entry file="file://$PROJECT_DIR$/templates/marketplace-login-only.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="48" />
+          <folding>
+            <element signature="e#1469#1491#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-shortcodes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="69" column="69" selection-start-line="69" selection-start-column="69" selection-end-line="69" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.validate.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/star-rating.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sweetalert2/sweetalert2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sweetalert2/sweetalert2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/marketplace-login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="80" selection-start-line="40" selection-start-column="80" selection-end-line="40" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register.php" />
+    <entry file="file://$PROJECT_DIR$/assets/js/star-rating.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/marketplace-publish.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/frontend.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3405">
+          <caret line="227" column="1" selection-start-line="227" selection-start-column="1" selection-end-line="227" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/marketplace-logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.rut.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-marketplace-template-loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-load-js-css.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="95" selection-start-line="19" selection-start-column="95" selection-end-line="19" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-bbdd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="117" column="31" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
+          <folding>
+            <marker date="1519446852000" expanded="true" signature="644:764" ph="ALTER TABLE " />
+            <marker date="1519446852000" expanded="true" signature="768:866" ph="ALTER TABLE " />
+            <marker date="1519446852000" expanded="true" signature="869:1003" ph="ALTER TABLE " />
+            <marker date="1519446852000" expanded="true" signature="6287:6530" ph="UPDATE ${$ta... " />
+            <marker date="1519446852000" expanded="true" signature="6819:6894" ph="SELECT * FRO... ${$table_name}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-marketplace-list-table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="104" column="110" selection-start-line="104" selection-start-column="110" selection-end-line="104" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/marketplace-register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="73" selection-start-line="56" selection-start-column="73" selection-end-line="56" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8109">
+          <caret line="477" column="0" selection-start-line="477" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+          <folding>
+            <marker date="1519738162000" expanded="true" signature="6971:6988" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="6989:7585" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="6994:7207" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="6999:7082" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7097:7114" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7115:7197" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7212:7576" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7225:7258" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7271:7570" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="7292:7329" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16231:16248" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16249:17091" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16254:16467" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16259:16342" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16357:16374" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16375:16457" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16472:17082" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16485:16518" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16531:17072" ph="..." />
+            <marker date="1519738162000" expanded="true" signature="16552:16589" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="3" selection-start-line="85" selection-start-column="3" selection-end-line="85" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/frontend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/marketplace-install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/marketplace-dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="102" selection-start-line="61" selection-start-column="96" selection-end-line="61" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/marketplace-business.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2737">
+          <caret line="161" column="138" selection-start-line="161" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/marketplace-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="135" column="139" selection-start-line="135" selection-start-column="139" selection-end-line="135" selection-end-column="139" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

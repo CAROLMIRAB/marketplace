@@ -1,0 +1,230 @@
+#form-encuesta .encuesta-container {
+    width: 100%;
+    float: left;
+    display: inline-block;
+}
+
+#form-encuesta .encuesta-container-radio {
+    width: 100%;
+    float: left;
+    display: inline-block;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#form-encuesta input[type="radio"] {
+    margin-right: 30px;
+}
+
+#encuesta-container h2 {
+    font-size: 24px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding: 0;
+
+}
+
+#form-encuesta .error {
+    color: red;
+}
+
+.encuesta-resultados-container {
+    width: 100%;
+    float: left;
+    margin-top: 15px;
+}
+
+.encuesta-resultados-container h2 {
+    width: 100%;
+    float: left;
+    border-top: solid 1px #CCC;
+    border-bottom: solid 1px #CCC;
+    margin-bottom: 15px;
+    margin-top: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.encuesta-resultados-container h3 {
+    margin: 0;
+    padding: 0;
+    line-height: 130%;
+}
+
+.fr-toolbar {
+    border-top: none !important;
+}
+
+#marketplace_images {
+    visibility: hidden;
+    width: 0;
+    position: relative;
+}
+
+#marketplace_images::before {
+    content: 'Sube una imagen';
+    display: inline-block;
+    background: -webkit-linear-gradient(top, #f9f9f9, #e3e3e3);
+    border: 1px solid #999;
+    border-radius: 3px;
+    padding: 5px 8px;
+    outline: none;
+    white-space: nowrap;
+    -webkit-user-select: none;
+    cursor: pointer;
+    text-shadow: 1px 1px #fff;
+    font-weight: 700;
+    font-size: 10pt;
+    visibility: visible;
+    position: absolute;
+}
+
+#marketplace_images:hover::before {
+    border-color: black;
+}
+
+#marketplace_images:active::before {
+    background: -webkit-linear-gradient(top, #e3e3e3, #f9f9f9);
+}
+
+.bx-wrapper .bx-controls-direction a {
+    margin-top: 30%;
+    height: 50px;
+}
+
+#form-marketplace-register input[type="submit"] {
+    padding: 8px 50px;
+    font-size: 15px;
+    background-color: #8fbe00;
+    color: #FFFFFF;
+}
+
+.markettitle h1 span {
+    padding: 50px 0 !important;
+    border-bottom: 1px solid #f18802 !important;
+    color: #f18802;
+}
+
+div.wpcf7 {
+    padding: 15px;
+}
+
+.mini-faq {
+    color: #b8312f;
+    font-size: 11px;
+}
+
+/*      OJO        */
+
+#menu-item-4266 {
+    background: #f18802;
+    color: #FFFFFF;
+}
+
+.info-business-a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a.info-business-a:hover {
+    text-decoration: none;
+    color: #CCCCCC;
+}
+
+footer.comment-meta {
+    background: #FFF;
+
+}
+
+label.error {
+    color: #F00;
+}
+
+input.error input[type]:focus {
+    border-color: #F00;
+    box-shadow: 0 1px 1px #F00 inset, 0 0 8px #F00;
+}
+
+#carrusel {
+    float: left;
+    width: 100%;
+    overflow: hidden;
+    height: 100px;
+    position: relative;
+    margin-top: 20px;
+    z-index: 999999;
+}
+
+#carrusel .izquierda_flecha {
+    position: absolute;
+    left: 10px;
+    z-index: 1;
+    top: 50%;
+    margin-top: -9px;
+}
+
+#carrusel .derecha_flecha {
+    position: absolute;
+    right: 10px;
+    z-index: 1;
+    top: 50%;
+    margin-top: -9px;
+}
+
+.carrusel {
+    width: 100%;
+    left: 0px;
+    position: absolute;
+    z-index: 0
+}
+
+.carrusel > div {
+    float: left;
+    height: 100px;
+    margin-right: 3%;
+    width: 30.3%;
+    text-align: center;
+}
+
+.carrusel .img_carrusel {
+    cursor: pointer;
+}
+
+#content-car {
+    float: left;
+    width: 100%;
+    margin-bottom: 40px;
+    margin: 0px auto;
+}
+
+.carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+}
+/* Reposition the controls slightly */
+.carousel-control {
+    left: -12px;
+}
+.carousel-control.right {
+    right: -12px;
+}
+/* Changes the position of the indicators */
+.carousel-indicators {
+    right: 50%;
+    top: auto;
+    bottom: 0px;
+    margin-right: -19px;
+}
+/* Changes the colour of the indicators */
+.carousel-indicators li {
+    background: #c0c0c0;
+}
+.carousel-indicators .active {
+    background: #333333;
+}
+
+
